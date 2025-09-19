@@ -227,6 +227,8 @@ src/
 - Project statuses
 
 ### 📞 Contacts
+shellrustyt@gmail.com
+
 - Working feedback form
 - Contact information
 - Social networks
