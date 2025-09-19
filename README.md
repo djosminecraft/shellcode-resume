@@ -123,3 +123,131 @@ MIT License - используйте свободно для личных и к�
 ---
 
 **Создано с ❤️ для демонстрации навыков frontend разработки**
+
+---
+
+# 🚀 Interactive Resume
+
+> **🌐 [View Live Website](https://djosminecraft.github.io/shellcode-resume/)**
+
+Modern web application resume with interactive animations, 3D elements and unique user experience.
+
+## ✨ Features
+
+- 🎨 **Modern design** with gradients and glass effects
+- 🎬 **GSAP animations** with scroll binding
+- 🎮 **Interactive elements** and hover effects
+- 📱 **Responsive design** for all devices
+- ⚡ **High performance** with Vite
+- 🎯 **SEO optimization** and accessibility
+
+## 🛠️ Technologies
+
+- **React 18** - modern UI framework
+- **Vite** - fast build tool
+- **Tailwind CSS** - utility-first CSS framework
+- **GSAP** - professional animations
+- **Three.js** - 3D graphics
+- **Framer Motion** - component animations
+- **React Icons** - icons
+
+## 🚀 Quick Start
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run in development mode
+
+```bash
+npm run dev
+```
+
+### Build for production
+
+```bash
+npm run build
+```
+
+### Preview build
+
+```bash
+npm run preview
+```
+
+## 📁 Project Structure
+
+```
+src/
+├── components/          # React components
+│   ├── HeroSection.jsx  # Main section
+│   ├── About.jsx        # About me
+│   ├── Skills.jsx       # Skills
+│   ├── Experience.jsx  # Work experience
+│   ├── Projects.jsx     # Projects
+│   ├── Contact.jsx      # Contacts
+│   ├── Navigation.jsx  # Navigation
+│   └── ParticleBackground.jsx # Background particles
+├── assets/              # Static resources
+├── styles/              # Styles
+├── hooks/               # Custom hooks
+├── utils/               # Utilities
+├── App.jsx              # Main component
+└── main.jsx             # Entry point
+```
+
+## 🎨 Website Sections
+
+### 🏠 Hero Section
+- Animated greeting
+- Floating particles
+- Social links
+- Scroll indicator
+
+### 👨‍💻 About Me
+- Interactive cards
+- Achievement statistics
+- Animated icons
+
+### 🛠️ Skills
+- Animated progress bars
+- Technology grid
+- Detailed competency descriptions
+
+### 📈 Work Experience
+- Interactive timeline
+- Company cards
+- Animated timeline
+
+### 🚀 Projects
+- Modal windows with details
+- GitHub and demo links
+- Project statuses
+
+### 📞 Contacts
+- Working feedback form
+- Contact information
+- Social networks
+
+## 🎯 Planned Improvements
+
+- [ ] 3D scene with Three.js
+- [ ] GitHub API integration
+- [ ] Easter eggs and mini-games
+- [ ] Dark theme
+- [ ] Multilingual support
+- [ ] PWA functionality
+
+## 📄 License
+
+MIT License - use freely for personal and commercial projects.
+
+## 🤝 Contributing
+
+Any improvements are welcome! Create issues and pull requests.
+
+---
+
+**Created with ❤️ to showcase frontend development skills**
